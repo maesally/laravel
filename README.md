@@ -1,1 +1,3 @@
 # laravel
+
+Projekt za vježbu
